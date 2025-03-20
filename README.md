@@ -32,7 +32,7 @@ Each cipher program is a standalone script. Follow these steps to run them:
 
 2. **Run a specific cipher**
 
-   ```sh
+  ```sh
    python caesar_cipher.py
    ```
 
@@ -46,6 +46,26 @@ Each cipher program is a standalone script. Follow these steps to run them:
 
    ```sh
    python hill_cipher.py
+   ```
+
+   ```sh
+   python vignere.py
+   ```
+
+   ```sh
+   python feistel.py
+   ```
+
+   ```sh
+   python helman.py
+   ```
+
+   ```sh
+   python rsa.py
+   ```
+
+   ```sh
+   python Des.py
    ```
 
 3. **Follow the on-screen instructions** to encrypt or decrypt messages using the respective ciphers.
