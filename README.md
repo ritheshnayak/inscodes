@@ -26,8 +26,8 @@ Each cipher program is a standalone script. Follow these steps to run them:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/ritheshnayak/inscodes.git]
+   cd inscodes
    ```
 
 2. **Run a specific cipher**
